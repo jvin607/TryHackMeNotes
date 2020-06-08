@@ -89,7 +89,7 @@ cat (found on Twitter after github research)
 ```
 2. What city is this person in?
 ```
-London (based on Wigle.net research)
+London (based on github and Wigle.net research)
 ```
 3. What's the SSID of the WAP he connected to?
 ```
